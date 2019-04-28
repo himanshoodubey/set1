@@ -21,6 +21,7 @@ public class Main{
         }
         if(c>1)
         f=1;
+            break;
         }
         if(f==1){
             System.out.print("no");
